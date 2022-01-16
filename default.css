@@ -1,0 +1,28 @@
+body
+{
+    width: 100vw;
+    height: 100vh;
+    margin: 0px;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+#title
+{
+    font-size: 60px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: green;
+    width: 50vw;
+    text-align: center;
+}
+
+#canvas1
+{
+    border: 2px solid white;
+}
+
+
